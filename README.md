@@ -2,7 +2,7 @@
 UpSchool - Works
 </h3>
 <h3 align="center">
-This repository contains my works that I did during my Up School - .NET Program process.
+Includes my work that I did during my Up School - .NET Program process.
 <br/>
 <br/>
 <img height="100" width="100" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
