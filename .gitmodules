@@ -1,0 +1,69 @@
+[submodule "PersonalProjects/identity-netcore-jobsearch-project"]
+	path = PersonalProjects/identity-netcore-jobsearch-project
+	url = https://github.com/gozdemogus/identity-netcore-jobsearch-project.git
+[submodule "PersonalProjects/blog-project-core-identity-api"]
+	path = PersonalProjects/blog-project-core-identity-api
+	url = https://github.com/gozdemogus/blog-project-core-identity-api.git
+[submodule "PersonalProjects/hotel-api-produce-consume"]
+	path = PersonalProjects/hotel-api-produce-consume
+	url = https://github.com/gozdemogus/hotel-api-produce-consume.git
+[submodule "PersonalProjects/Observer-DesignPattern-Personal"]
+	path = PersonalProjects/Observer-DesignPattern-Personal
+	url = https://github.com/gozdemogus/Observer-DesignPattern-Personal.git
+[submodule "PersonalProjects/currency-report-app"]
+	path = PersonalProjects/currency-report-app
+	url = https://github.com/gozdemogus/currency-report-app.git
+[submodule "PersonalProjects/CoreDemo"]
+	path = PersonalProjects/CoreDemo
+	url = https://github.com/gozdemogus/CoreDemo.git
+[submodule "PersonalProjects/aspnet-codefirst-travelblog-project"]
+	path = PersonalProjects/aspnet-codefirst-travelblog-project
+	url = https://github.com/gozdemogus/aspnet-codefirst-travelblog-project.git
+[submodule "PersonalProjects/MVCProject"]
+	path = PersonalProjects/MVCProject
+	url = https://github.com/gozdemogus/MVCProject.git
+[submodule "PersonalProjects/aspnet-core-projects"]
+	path = PersonalProjects/aspnet-core-projects
+	url = https://github.com/gozdemogus/aspnet-core-projects.git
+[submodule "LessonProjects/chain-of-responsibility"]
+	path = LessonProjects/chain-of-responsibility
+	url = https://github.com/gozdemogus/chain-of-responsibility.git
+[submodule "LessonProjects/Unit-Of-Work-Design-Pattern"]
+	path = LessonProjects/Unit-Of-Work-Design-Pattern
+	url = https://github.com/gozdemogus/Unit-Of-Work-Design-Pattern.git
+[submodule "LessonProjects/Observer-Design-Pattern"]
+	path = LessonProjects/Observer-Design-Pattern
+	url = https://github.com/gozdemogus/Observer-Design-Pattern.git
+[submodule "LessonProjects/template-design-pattern"]
+	path = LessonProjects/template-design-pattern
+	url = https://github.com/gozdemogus/template-design-pattern.git
+[submodule "LessonProjects/CQRS-Project"]
+	path = LessonProjects/CQRS-Project
+	url = https://github.com/gozdemogus/CQRS-Project.git
+[submodule "LessonProjects/signalr-electricity-project"]
+	path = LessonProjects/signalr-electricity-project
+	url = https://github.com/gozdemogus/signalr-electricity-project.git
+[submodule "LessonProjects/signalr-api-project"]
+	path = LessonProjects/signalr-api-project
+	url = https://github.com/gozdemogus/signalr-api-project.git
+[submodule "LessonProjects/APIConsumer"]
+	path = LessonProjects/APIConsumer
+	url = https://github.com/gozdemogus/APIConsumer.git
+[submodule "LessonProjects/UpSchool-WebAPI"]
+	path = LessonProjects/UpSchool-WebAPI
+	url = https://github.com/gozdemogus/UpSchool-WebAPI.git
+[submodule "LessonProjects/upschool-docker"]
+	path = LessonProjects/upschool-docker
+	url = https://github.com/gozdemogus/upschool-docker.git
+[submodule "LessonProjects/CrmUpSchool"]
+	path = LessonProjects/CrmUpSchool
+	url = https://github.com/gozdemogus/CrmUpSchool.git
+[submodule "LessonProjects/DemoUpSchoolProject"]
+	path = LessonProjects/DemoUpSchoolProject
+	url = https://github.com/gozdemogus/DemoUpSchoolProject.git
+[submodule "LessonProjects/BaseIdentity-Upschool"]
+	path = LessonProjects/BaseIdentity-Upschool
+	url = https://github.com/gozdemogus/BaseIdentity-Upschool.git
+[submodule "GraduationProject/edu-platform-project"]
+	path = GraduationProject/edu-platform-project
+	url = https://github.com/gozdemogus/edu-platform-project.git
