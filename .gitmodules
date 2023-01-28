@@ -67,3 +67,6 @@
 [submodule "GraduationProject/edu-platform-project"]
 	path = GraduationProject/edu-platform-project
 	url = https://github.com/gozdemogus/edu-platform-project.git
+[submodule "LessonProjects/Microservices-ECommerce-Project"]
+	path = LessonProjects/Microservices-ECommerce-Project
+	url = https://github.com/gozdemogus/Microservices-ECommerce-Project.git
