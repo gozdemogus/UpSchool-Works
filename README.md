@@ -11,7 +11,7 @@ Includes my work that I did during my Up School - .NET Program process.
 # Guide
 
 ## Personal Projects
-In this folder, you can find the projects that I have induvidually developed.
+In this folder, you can find the projects that I have individually developed.
 
 ### Individual Projects
 
